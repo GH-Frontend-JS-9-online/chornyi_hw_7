@@ -1,5 +1,4 @@
 a.Conditions
-
  	i.Challenge 1
   		1.URL: https://edabit.com/challenge/Ju7AK9rAGjz86hjxo
   		2. Solution:https://monosnap.com/file/U7ES9BdoIxFHPjc7GXfUmVYMgr89BA
@@ -16,8 +15,8 @@ a.Conditions
   		1.URL:https://edabit.com/challenge/xXJLZry3vYd4erPct
   		2.Solution:https://monosnap.com/file/etYz89VPUQ3qSWqhgTziNf5ZAGJCeY?idx=0&total=5
 		
+		
 b.Arrays
-
  	i.Challenge 1
   		1.URL:https://edabit.com/challenge/Q3n42rEWanZSTmsJm
   		2.Solution: https://monosnap.com/file/pJHCQ4uB9J7dBKEfq0lrotikUYXue4
@@ -33,8 +32,8 @@ b.Arrays
  	iiiii.Challenge 5
   		1.URL: https://edabit.com/challenge/rCmEy2AQYLbRGgKyL
   		2.Solution: https://monosnap.com/file/Bw7NEEi3YEFbbnMUkNNUQj8Jffp7Wj
+		
 c.Loops
-
 	 i.Challenge 1
   		1.URL: https://edabit.com/challenge/ppBDRwSoqZYcR95Aq
   		2.Solution: https://monosnap.com/file/968K6vqqQCmdCWfOeFp4APE6svX8gA
@@ -52,7 +51,6 @@ c.Loops
   		2.Solution: https://monosnap.com/file/3SLLXkptV7arcaFVuWnOca7qqkWc4b
 		
 d.Functional Programming
-
  	i.Challenge 1
   		1.URL: https://edabit.com/challenge/cada8J3AWGRhwQhkk
  		2.Solution: https://monosnap.com/file/zmrLBwFwN8joPsuR5nBC7eAFwCqnuU
@@ -68,8 +66,8 @@ d.Functional Programming
  	iiiii.Challenge 5
   		1.URL: https://edabit.com/challenge/4zCJaqJvEcAmqcb7y
   		2.Solution: https://monosnap.com/file/QXNlotmeRhJ75IWATk2JYKNkpuChzZ
+		
 e.Scope
-
  	i.Challenge 1
   		1.URL: https://edabit.com/challenge/wTQpSEZPpPdyLtK9k
   		2.Solution: https://monosnap.com/file/FcBXvftToh6bvF78m0olAgt7mGr0FU
@@ -88,7 +86,6 @@ e.Scope
 	      		    https://monosnap.com/file/DBTjRI0HFwiP0QfOFPDaHPpnB1FRZr
 			    
 f.Objects
-
  	i.Challenge 1
   		1.URL: https://edabit.com/challenge/i6YqzHcSiPiEQKjeX
   		2.Solution: https://monosnap.com/file/xeglqjlNAukknnNdgYR0bsEgCWCX0n
@@ -104,8 +101,8 @@ f.Objects
  	iiiii.Challenge 5
   		1.URL:https://edabit.com/challenge/AP4hnF97anRc2mAZ6
   		2.Solution:https://monosnap.com/file/gHXQqav68e9xmj6bLvzCwW43ZTbTRh
+		
 g.Classes
-
  	i.Challenge 1
   		1.URL: https://edabit.com/challenge/Hgb38yhWGwJCMHbRQ
   		2.Solution: https://monosnap.com/direct/n1VC4wJQRMTOs4pq8Fq2b7NVz0ghDC
