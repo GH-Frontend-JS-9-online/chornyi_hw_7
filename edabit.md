@@ -1,8 +1,11 @@
 a.Conditions
- 	i.Challenge 1
+
+	i.Challenge 1
+	
   		1.URL: https://edabit.com/challenge/Ju7AK9rAGjz86hjxo
   		2. Solution:https://monosnap.com/file/U7ES9BdoIxFHPjc7GXfUmVYMgr89BA
  	ii.Challenge 2
+	
   		1.URL: https://edabit.com/challenge/kLa2w7m4h849k8rmW
   		2.Solution: https://monosnap.com/file/jaVA9M1ujWX1FacxVy8l9BSMLqITT5
  	iii.Challange 3
