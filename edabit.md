@@ -34,7 +34,7 @@ b.Arrays
   		2.Solution: https://monosnap.com/file/Bw7NEEi3YEFbbnMUkNNUQj8Jffp7Wj
 		
 c.Loops
-	 i.Challenge 1
+	 i.Challenge 1 
   		1.URL: https://edabit.com/challenge/ppBDRwSoqZYcR95Aq
   		2.Solution: https://monosnap.com/file/968K6vqqQCmdCWfOeFp4APE6svX8gA
  	ii.Challenge 2
