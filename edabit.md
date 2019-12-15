@@ -1,19 +1,30 @@
 a.Conditions
+
  i.Challenge 1
+ 
   1.URL: https://edabit.com/challenge/Ju7AK9rAGjz86hjxo
   2. Solution:https://monosnap.com/file/U7ES9BdoIxFHPjc7GXfUmVYMgr89BA
+  
  i.Challenge 2
+ 
   1.URL: https://edabit.com/challenge/kLa2w7m4h849k8rmW
   2.Solution: https://monosnap.com/file/jaVA9M1ujWX1FacxVy8l9BSMLqITT5
+  
  iii.Challange 3
+ 
   1.URL:https://edabit.com/challenge/at7jF9Y7SmPGyD92u
   2.Solution:https://monosnap.com/file/wJXlxXPsBUDwCmrbBdJ9GpIoMCChG9
+  
  iiii.Challange 4
+ 
   1.URL:https://edabit.com/challenge/nQx5XHtWurbGrFJww
   2.Solution:https://monosnap.com/file/2PjZDPlWmAq4WaboZOGnQCvYrpwvPR
+  
  iiiii.Challange 5
+ 
   1.URL:https://edabit.com/challenge/xXJLZry3vYd4erPct
   2.Solution:https://monosnap.com/file/etYz89VPUQ3qSWqhgTziNf5ZAGJCeY?idx=0&total=5
+  
 		
 b.Arrays
  	i.Challenge 1
